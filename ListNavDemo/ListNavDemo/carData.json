@@ -1,0 +1,38 @@
+[
+    {
+        "id": "aa32jj887hhg55",
+        "name": "Tesla Model 3",
+        "description": "Luxury 4-door all-electic car. Range of 310 miles. 0-60mph in 3.2 seconds",
+        "isHybrid": false,
+        "imageName": "tesla_model_3"
+    },
+    {
+        "id": "bb32jj887hhg77",
+        "name": "Tesla Model S",
+        "description": "5-door lift-back electric car. Performance model has a three-phase, four-pole AC induction 416 hp (310 kW) and 443 ft⋅lb (601 N⋅m) rear-mounted electric motor",
+        "isHybrid": false,
+        "imageName": "tesla_model_s"
+    },
+    {
+        "id": "cc32jj887hhg66",
+        "name": "Toyota Prius",
+        "description": "5-door liftback full hybrid electric automobile developed by Toyota.",
+        "isHybrid": true,
+        "imageName": "toyota_prius"
+    },
+    {
+        "id": "dd32jj887hhg88",
+        "name": "Nissan Leaf",
+        "description": "A compact five-door hatchback all-electric car manufactured by Nissan",
+        "isHybrid": false,
+        "imageName": "nissan_leaf"
+    },
+    {
+        "id": "ee32jj887hhg99",
+        "name": "Chevrolet Volt",
+        "description": "5-door hatchback plug-in hybrid car manufactured by General Motors.",
+        "isHybrid": true,
+        "imageName": "chevrolet_volt"
+    }
+    
+]
